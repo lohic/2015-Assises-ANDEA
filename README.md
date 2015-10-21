@@ -1,6 +1,6 @@
 #Assises nationales des écoles supérieures d’art 2015
 
-##Autonomie et spécificités de l’enseignement artistique — tous pluridisciplinaires ?
+###Autonomie et spécificités de l’enseignement artistique — tous pluridisciplinaires ?
 
 Dossier d'images pour la table ronde «Les pratiques pédagogiques du numérique au risque du monopole technologique»
 
