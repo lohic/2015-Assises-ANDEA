@@ -1,4 +1,7 @@
-# 2015-Assises-ANDEA
+#Assises nationales des écoles supérieures d’art 2015
+
+##Autonomie et spécificités de l’enseignement artistique — tous pluridisciplinaires ?
+
 Dossier d'images pour la table ronde «Les pratiques pédagogiques du numérique au risque du monopole technologique»
 
 - **Loïc Horellou**, designer interactif, professeur à la Haute école des arts du Rhin et à l’École supérieure d’art et de communication de Cambrai
